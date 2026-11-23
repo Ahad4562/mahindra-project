@@ -1,0 +1,4 @@
+com.mahindra.beaconhill:style/AppTheme = 0x7f030000
+com.mahindra.beaconhill:drawable/mahindra_lifespaces_logo = 0x7f010001
+com.mahindra.beaconhill:string/app_name = 0x7f020000
+com.mahindra.beaconhill:drawable/ic_launcher = 0x7f010000

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mahindra Beacon</string>
+    <string name="title_activity_main">Mahindra Beacon</string>
+    <string name="package_name">com.mahindra.beaconhill</string>
+    <string name="custom_url_scheme">com.mahindra.beaconhill</string>
+</resources>

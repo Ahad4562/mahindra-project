@@ -1,0 +1,16 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.mahindra.beaconhill"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.mahindra.beaconhill"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+}

@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+drawable mahindra_lifespaces_logo
+string app_name
+style AppTheme
